@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=zsubZGAOWMw
 The main links:
 
 + [IBM Developer link to Academic programs](https://developer.ibm.com/academic/accessresources/)
-+ [Academic Initiative](https://onthehub.com/ibm)
++ [Academic Initiative sign up](https://ibm.biz/academic)
 + following the intrusctions for the IBM Cloud section (not the Security)
 
 Once you've signed up, and received the notification email - login to the [IBM Cloud console](https://console.cloud.com)
