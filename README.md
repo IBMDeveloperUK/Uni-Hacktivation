@@ -5,11 +5,7 @@ videos short courses, and essential cheat sheets
 
 ## get an IBMId and IBM Cloud login
 
-A short video that that shows the sign-up process for IBM Cloud through the Academic Initiative.  
-<!-- short video that shows the sign up process using current UI. up to 1:45 (thereafter goes into VMWare console in Softlayer)
-+ https://www.youtube.com/watch?v=HBkY-Fs1d6E
--->
-https://www.youtube.com/watch?v=zsubZGAOWMw
+You'll find instructions for joining the IBM Academic Initiative, and for acquiring and applying a feature code to expand available capacity in your IBM Cloud account at [IBM Academic Iniative sign-up](https://ibm.biz/IBMUKAcademicZone) (many thanks to [J0nnyMac](https://twitter.com/j0nnymac) )
 
 The main links:
 
